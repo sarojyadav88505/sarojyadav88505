@@ -24,7 +24,7 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 
 - 📝 I regularly write articles on [https://google2googlee.blogspot.com/](https://google2googlee.blogspot.com/)
 
-- 💬 Ask me about **flutter.dev** 
+- 💬 Ask me about **https://flutter.dev/** 
 
 - 💌 MY Email **sarojyadav88505@gmail.com**
 
