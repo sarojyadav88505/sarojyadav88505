@@ -10,7 +10,7 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojyadav88505" alt="sarojyadav88505" /></a> </p>
 
 <br>
-<img  align='right' src="https://miro.medium.com/max/1144/1*-09bqV1YEaEEKViFMZxaXA.png"width="800px">
+<img  align='right' src="https://miro.medium.com/max/1144/1*-09bqV1YEaEEKViFMZxaXA.png"width="760px">
 
 
 - 🔭 I’m currently working on **Flutter**
