@@ -9,7 +9,7 @@ I am trying to create magic with 0's and 1's</h3>
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter, Laravel, etc.**
+- 🌱 I’m currently learning **Flutter, Laravel, and So Many Other programming Languages.**
 
 - 📝 I regularly write articles on [https://google2googlee.blogspot.com/](https://google2googlee.blogspot.com/)
 
