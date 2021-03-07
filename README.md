@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saroj Yadav</h1>
-<h3 align="center">A BCA Student and A Passionate Coder of Nepal</h3>
+<h3 align="center">A BCA Student and A Passionate Coder of Nepal 
+And I love the world of coding. 
+I am trying to create magic with 0's and 1's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarojyadav88505&label=Profile%20views&color=0e75b6&style=flat" alt="sarojyadav88505" /> </p>
 
