@@ -24,11 +24,11 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 
 - 📝 I regularly write articles on [https://google2googlee.blogspot.com/](https://google2googlee.blogspot.com/)
 
-- 💬 Ask me about **https://flutter.dev** 
+- 💬 Ask me about: **https://flutter.dev** 
 
-- 💌 MY Email **sarojyadav88505@gmail.com**
+- 💌 MY Email: **sarojyadav88505@gmail.com**
 
-- 💞 fellings **तेरे दिल का मेरे दिल से, रिश्ता अजीब है, मीलों की दूरियां, और धड़कन करीब है।**
+- 💞 fellings: **तेरे दिल का मेरे दिल से, रिश्ता अजीब है, मीलों की दूरियां, और धड़कन करीब है।**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
