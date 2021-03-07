@@ -4,10 +4,11 @@
 I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. <h3/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sarojyadav88505&label=Profile%20views&color=0e75b6&style=flat" alt="sarojyadav88505" /> </p>
-<img  align='right' src="https://s3-eu-west-1.amazonaws.com/uploads.playbaamboozle.com/uploads/images/1075/1614871071_1080058_gif-url.gif"width="265px">
+<img  align='right' src="https://s3-eu-west-1.amazonaws.com/uploads.playbaamboozle.com/uploads/images/1075/1614871071_1080058_gif-url.gif"width="260px">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojyadav88505" alt="sarojyadav88505" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojyadav88505" alt="sarojyadav88505" /></a> <img  align='right' src="https://miro.medium.com/max/1144/1*-09bqV1YEaEEKViFMZxaXA.png"width="540px">
+</p>
 
 
 
@@ -24,7 +25,7 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 
 - 📝 I regularly write articles on [https://google2googlee.blogspot.com/](https://google2googlee.blogspot.com/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** 
 
 - 💌 MY Email **sarojyadav88505@gmail.com**
 
