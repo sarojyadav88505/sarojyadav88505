@@ -11,7 +11,7 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 </a> </p>
 
 <br> 
-<img  align='right' src="https://miro.medium.com/max/1144/1*-09bqV1YEaEEKViFMZxaXA.png"width="540px">
+<img  align='right' src="https://miro.medium.com/max/1144/1*-09bqV1YEaEEKViFMZxaXA.png"width="570px">
 <br/>
 
 
