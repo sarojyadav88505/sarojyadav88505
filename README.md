@@ -4,7 +4,7 @@
 I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. <h3/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sarojyadav88505&label=Profile%20views&color=0e75b6&style=flat" alt="sarojyadav88505" /> </p>
-<img  align='right' src="https://s3-eu-west-1.amazonaws.com/uploads.playbaamboozle.com/uploads/images/1075/1614871071_1080058_gif-url.gif"width="260px">
+<img  align='right' src="https://s3-eu-west-1.amazonaws.com/uploads.playbaamboozle.com/uploads/images/1075/1614871071_1080058_gif-url.gif"width="240px">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarojyadav88505" alt="sarojyadav88505" />
