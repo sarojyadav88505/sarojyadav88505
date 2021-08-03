@@ -22,7 +22,7 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 
 - 🌱 I’m currently learning **Flutter, Laravel, and So Many Other programming Languages.**
 
-- 📝 I regularly write articles on [https://google2googlee.blogspot.com/](https://google2googlee.blogspot.com/)
+- 📝 I regularly write articles on [https://vipcodings.blogspot.com/](https://vipcodings.blogspot.com/)
 
 - 💬 Ask me about: **https://flutter.dev** 
 
