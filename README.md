@@ -33,9 +33,9 @@ I am trying to create magic with 0's and 1's, I Love Coding By Listening Music. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saroj-yadav-b69311111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saroj-yadav-b69311111" height="30" width="40" /></a>
-<a href="https://fb.com/Saroj Yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saroj Yadav" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100051618122414" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saroj Yadav" height="30" width="40" /></a>
 <a href="https://dribbble.com/sarojyadav88505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sarojyadav88505" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/googlee404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="googlee404" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/vipcoding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="googlee404" height="30" width="40" /></a>
 </p>
 
 
